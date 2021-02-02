@@ -1,3 +1,3 @@
 # cosc412
-This is my first Github repository
-Hello I guess
+I tried making a change and pushing the new content
+did it work?

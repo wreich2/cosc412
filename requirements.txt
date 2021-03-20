@@ -1,0 +1,15 @@
+Requirements:
+
+Account Creation
+- provide valid username and a password of at least 8 characters
+
+Account Management
+- update profile’s password, bio, and following (have/change profile picture?)
+- view and remove past posts
+
+Posting
+- post images, select tags as search terms for their image when they make their post
+- tags will include information relevant to the image (custom tags?)
+- view posts by looking for followed users or by using search tags (default to most liked or newest?)
+- like a post, to find it more easily and send virtual validation to the poster
+- follow other users, to easily view a content creator’s posts as they arrive
